@@ -1,5 +1,5 @@
 
-# Hi there I'm Ankit ✨  Happy New Year 🎉🎉
+# Hi there I'm Ankit ✨    Happy New Year 🎉🎉
 
 I am a self taught web developer in constant effort to improve my self, long way to go!!
 
