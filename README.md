@@ -25,7 +25,7 @@ Ping me for code alongs.
 
 ## Tech Stack
 
-**Languages:** HTML, CSS, Javascript, C, C++, Python
+**Tech Stack:** HTML, CSS, Javascript, C, C++, Python
 
 **Library:** ReactJs
 
