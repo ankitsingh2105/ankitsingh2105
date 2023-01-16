@@ -17,11 +17,11 @@ Ping me for code alongs.
 
 ## Stack OverFlow Stats
 
-✨ ![App Screenshot](https://i.ibb.co/Ng08SJx/ankit.png) 
+✨ ![App Screenshot](https://ibb.co/98ZpBtd) 
 
-✨ ![App Screenshot](https://i.ibb.co/p32HSCr/stats.png)
+✨ ![App Screenshot](https://ibb.co/dDmGbgm)
 
-✨![App Screenshot](https://i.ibb.co/F613zjF/rep.png)
+✨![App Screenshot](https://ibb.co/NYkVFTH)
 
 ## Tech Stack
 
