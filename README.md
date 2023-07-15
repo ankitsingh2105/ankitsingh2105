@@ -20,6 +20,9 @@ You can ping me for code alongs.
 
 ## Tech Stack
 **Tech Stack:** HTML, CSS, JavaScript, C, C++, Python
+
 **Library:** ReactJS
+
 **Web Hosting:** Netlify, Vercel, Hostinger
+
 **Other:** GitHub, Git, Firebase, Canva, ChatGPT
