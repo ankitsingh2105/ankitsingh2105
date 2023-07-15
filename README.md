@@ -11,10 +11,8 @@ Ping me for code alongs.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-singh-chauhan-30057220a/)
 
-
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ankit-orange)](https://stackoverflow.com/users/19757319/ankit)
 
-[![Link Bee](http://linkbee.online/)
 
 
 ## Stack OverFlow Stats
