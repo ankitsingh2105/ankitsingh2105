@@ -14,9 +14,7 @@ You can ping me for code alongs.
 [![Link Bee](https://img.shields.io/badge/Link%20Bee-linkbee.online-brightgreen)](https://linkbee.online/)
 
 ## Stack Overflow Stats
-![App Screenshot](https://i.ibb.co/kHmGz1P/ss1.png)
-![App Screenshot](https://i.ibb.co/njPz3CP/ss2.png)
-![App Screenshot](https://i.ibb.co/h8n7gYt/ss3.png)
+Reputations - 1349
 
 ## Tech Stack
 **Tech Stack:** HTML, CSS, JavaScript, C, C++, Python
