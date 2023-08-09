@@ -1,8 +1,8 @@
 # Hi there, I'm Ankit ✨
 
-I am a self-taught web developer and am now a student at NIT Bhopal, constantly striving to improve myself. I have a long way to go!
+I am a self-taught web developer and a student at NIT Bhopal, constantly striving to improve myself. I have a long way to go!
 
-You can ping me for code alongs.
+You can ping me for code along.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ankitsinghchauhan.tech/)
