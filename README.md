@@ -17,7 +17,7 @@ You can ping me for code along.
 Reputations - 1349
 
 ## Tech Stack
-**Tech Stack:** HTML, CSS, JavaScript, C, C++, Python
+**Tech Stack:** HTML, CSS, JavaScript, C, C++
 
 **Library:** ReactJS
 
