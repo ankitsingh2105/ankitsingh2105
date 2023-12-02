@@ -10,10 +10,6 @@ You can ping me for code along.
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ankit-orange&labelColor=F7DF1E)](https://stackoverflow.com/users/19757319/ankit)
 [![Link Bee](https://img.shields.io/badge/Link%20Bee-linkbee.online-brightgreen&labelColor=4CAF50)](https://linkbee.online/)
 
-## Projects
-- [Project 1](project1-link): Short description
-- [Project 2](project2-link): Short description
-
 ## Education
 - Studying [Your Major] at NIT Bhopal (Year of Study)
 
@@ -43,10 +39,3 @@ You can ping me for code along.
 - ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC)
 - ![ChatGPT](https://img.shields.io/badge/ChatGPT-0084FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0084FF)
 
-## Contact
-- Email: [Your Email]
-- Twitter: [Your Twitter]
-- ...
-
-## Contribution Guidelines
-If you're interested in contributing to my projects, please follow these guidelines...
