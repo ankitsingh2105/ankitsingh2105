@@ -11,7 +11,8 @@ You can ping me for code along.
 [![Link Bee](https://img.shields.io/badge/Link%20Bee-linkbee.online-brightgreen&labelColor=4CAF50)](https://linkbee.online/)
 
 ## Education
-- Studying [Your Major] at NIT Bhopal (Year of Study)
+- Currently a student at NIT Bhopal, MCA'26
+- Completed BSC, Mathematics from Kumaun University
 
 ## Stack Overflow Stats
 - Reputations: 1349
