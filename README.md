@@ -12,7 +12,7 @@ You can ping me for code along.
 
 ## Education
 - Currently a student at NIT Bhopal, MCA'26
-- Completed BSC, Mathematics from Kumaun University
+- Completed BSC' 22, Mathematics from Kumaun University
 
 ## Stack Overflow Stats
 - Reputations: 1349
