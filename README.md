@@ -7,6 +7,7 @@ You can ping me for code along.
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)](https://ankitsinghchauhan.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/ankit-singh-chauhan-30057220a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/ankitchauhan21/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ankit-orange&labelColor=F7DF1E)](https://stackoverflow.com/users/19757319/ankit)
 [![Link Bee](https://img.shields.io/badge/Link%20Bee-linkbee.online-brightgreen&labelColor=4CAF50)](https://linkbee.online/)
 
