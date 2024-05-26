@@ -4,7 +4,7 @@ I am a self-taught web developer and a student at NIT Bhopal, constantly strivin
 
 You can ping me for code along.
 
-![](https://komarev.com/ghpvc/?username=ankitsingh2105&label=PROFILE+VIEWS&color=blue&style=plastic) since May 2024
+![](https://komarev.com/ghpvc/?username=ankitsingh2105&label=Profile+views+since+May+2024&color=blue&style=plastic)
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)](https://ankitsinghchauhan.in/)
