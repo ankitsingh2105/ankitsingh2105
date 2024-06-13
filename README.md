@@ -1,6 +1,6 @@
 # Hi there, I'm Ankit! ✨
 
-I am a self-taught web developer and a student at NIT Bhopal, constantly striving to improve myself. I have a long way to go!
+I am a self-taught web developer and a student at NIT Bhopal, constantly striving to improve myself.
 
 You can ping me for code along.
 
