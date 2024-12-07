@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh Chauhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a passionate developer ⚡ who loves solving problems and turning my learning into meaningful projects. I strive to create unique solutions that address real-world challenges and provide value to others 🌱.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsingh2105&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh2105" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ankitchauhan215" target="blank"><img src="https://img.shields.io/twitter/follow/ankitchauhan215?logo=twitter&style=for-the-badge" alt="ankitchauhan215" /></a> </p>
 
-- 🔭 I’m currently working on **Linkedin-Editor**
+- 🔭 I’m currently working on my chome extension [Linkedin-Editor](https://github.com/ankitsingh2105/Linkedin-Editor)
 
 - 🌱 I’m currently learning **Docker, AWS**
 
@@ -14,6 +14,8 @@
 - 💬 Ask me about **MERN, WebSockets, WebRTC, Real-Time Applications, Chome Extensions**
 
 - 📫 How to reach me **ankitchauhan21500@gmail.com**
+
+- ⚡ Know about my experiences through my resume [https://drive.google.com/file/d/1XFltBCO4Jp89P_L0KdVLKZzZnzwtnWae/view?usp=sharing](https://drive.google.com/file/d/1XFltBCO4Jp89P_L0KdVLKZzZnzwtnWae/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
