@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Singh Chauhan</h1>
+<h1 align="center">नमस्ते (Namaste) 🙏, Hi 👋, I'm Ankit Singh Chauhan</h1>
 <h3 align="center">I am a passionate developer ⚡ who loves solving problems and turning my learning into meaningful projects. I strive to create unique solutions that address real-world challenges and provide value to others 🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsingh2105&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh2105" /> </p>
