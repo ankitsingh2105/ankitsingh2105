@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/ankitchauhan21/" target="blank"><img src="https://img.shields.io/twitter/follow/ankitchauhan215?logo=twitter&style=for-the-badge" alt="Linkankitchauhan21" /></a> </p>
 
-- 🔭 I’m currently working on my chome extension [Linkedin-Editor](https://github.com/ankitsingh2105/Linkedin-Editor)
+- 🔭 I’m currently working on my chome extension [Linkedin-Editor](https://github.com/ankitsingh2105/Linkedin-Editor).
 
-- 🌱 I’m currently learning **Docker, AWS**
+- 🌱 I’m currently learning **Docker, AWS**.
 
 - 👨‍💻 All of my projects are available at [ankitsinghchauhan.in](ankitsinghchauhan.in)
 
-- 💬 Ask me about **MERN, WebSockets, WebRTC, Real-Time Applications, Chome Extensions**
+- 💬 Ask me about **MERN, WebSockets, WebRTC, Real-Time Applications, Chome Extensions**.
 
-- 📫 How to reach me **ankitchauhan21500@gmail.com**
+- 📫 How to reach me **ankitchauhan21500@gmail.com**.
 
-- ⚡ Know about my experiences through my [Resume](https://drive.google.com/file/d/1eaurzNq8ajbESWRnd5R1UgJDlydhPpr0/view?usp=drivesdk)
+- ⚡ Know about my experiences through my [RESUME](https://drive.google.com/file/d/1eaurzNq8ajbESWRnd5R1UgJDlydhPpr0/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
