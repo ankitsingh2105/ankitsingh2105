@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker, AWS**.
 
-- 👨‍💻 All of my projects are available at [ankitsinghchauhan.in](ankitsinghchauhan.in)
+- 👨‍💻 All of my projects are available at [ankitsinghchauhan.in](https://www.ankitsinghchauhan.in)
 
 - 💬 Ask me about **MERN, WebSockets, WebRTC, Real-Time Applications, Chome Extensions**.
 
