@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/ankitchauhan21/" target="blank"><img src="https://img.shields.io/twitter/follow/ankitchauhan215?logo=twitter&style=for-the-badge" alt="Linkankitchauhan21" /></a> </p>
 
-- 🔭 I’m currently working on my chome extension [Linkedin-Editor](https://github.com/ankitsingh2105/Linkedin-Editor).
+- 🔭 I’m currently working on my chome extension [LaterTube](https://github.com/ankitsingh2105/LaterTube).
 
 - 🌱 I’m currently learning **Docker, AWS**.
 
