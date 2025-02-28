@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/ankitchauhan21/" target="blank"><img src="https://img.shields.io/twitter/follow/ankitchauhan215?logo=twitter&style=for-the-badge" alt="Linkankitchauhan21" /></a> </p>
 
-- 🔭 I’m currently working on my chome extension [LaterTube](https://github.com/ankitsingh2105/LaterTube).
+- 🔭 I’m working on my Chrome extension [YTimeStamped](https://github.com/ankitsingh2105/timeTagger/).
 
 - 🌱 I’m currently learning **Docker, AWS**.
 
 - 👨‍💻 All of my projects are available at [ankitsinghchauhan.in](https://www.ankitsinghchauhan.in)
 
-- 💬 Ask me about **MERN, WebSockets, WebRTC, Real-Time Applications, Chome Extensions**.
+- 💬 Ask me about **MERN, WebSockets, WebRTC, Real-Time Applications, Chrome Extensions**.
 
 - 📫 How to reach me **ankitchauhan21500@gmail.com**.
 
