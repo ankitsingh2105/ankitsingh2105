@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsingh2105&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh2105" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/ankitchauhan21/" target="blank"><img src="https://img.shields.io/twitter/follow/ankitchauhan215?logo=twitter&style=for-the-badge" alt="Linkankitchauhan21" /></a> </p>
-
 - 🔭 I’m working on my Chrome extension [YTimeStamped](https://github.com/ankitsingh2105/timeTagger/).
 
 - 🌱 I’m currently learning **Docker, AWS**.
