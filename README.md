@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ankitchauhan21500@gmail.com**.
 
-- ⚡ Know about my experiences through my [RESUME](https://drive.google.com/file/d/1eaurzNq8ajbESWRnd5R1UgJDlydhPpr0/view?usp=drivesdk)
+- ⚡ Know about my experiences through my [RESUME](https://drive.google.com/file/d/1b3Ye7wKyBzitNkXqJeMPWeuxmccWaG4q/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
