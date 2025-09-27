@@ -6,11 +6,11 @@
 
 - 🔭 I’m working on my mock scheduling app [PerpMate](https://prepmatee.vercel.app/).
 
-- 🌱 I’m currently learning **Docker, AWS**.
+- 🌱 I’m currently learning **AI, ML, DevOps**.
 
 - 👨‍💻 All of my projects are available at [ankitsinghchauhan.in](https://www.ankitsinghchauhan.in)
 
-- 💬 Ask me about **MERN, WebSockets, WebRTC, Real-Time Applications, Chrome Extensions**.
+- 💬 Ask me about **Docker, AWS, WebSockets, WebRTC, Real-Time Applications, Chrome Extensions**.
 
 - 📫 How to reach me **ankitchauhan21500@gmail.com**.
 
