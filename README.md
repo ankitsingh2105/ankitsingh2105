@@ -6,7 +6,7 @@
 
 - 🔭 I’m working on my mock scheduling app [PerpMate](https://prepmatee.vercel.app/).
 
-- 🌱 I’m currently learning **AI, ML, DevOps**.
+- 🌱 I’m currently learning **Golang, Fast API**.
 
 - 👨‍💻 All of my projects are available at [ankitsinghchauhan.in](https://www.ankitsinghchauhan.in)
 
