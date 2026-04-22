@@ -1,83 +1,73 @@
 <h1 align="center">नमस्ते 🙏, मेरा नाम अंकित सिंह चौहान है|</h1>
 <h1 align="center">Hi 👋, I'm Ankit Singh Chauhan.</h1>
-<h3 align="center">I am a passionate developer ⚡ who loves solving problems and turning my learning into meaningful projects. I strive to create unique solutions that address real-world challenges and provide value to others 🌱</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsingh2105&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh2105" /> </p>
+<h3 align="center">
+I am a passionate developer ⚡ who loves solving problems and turning my learning into meaningful projects.  
+I strive to create unique solutions that address real-world challenges and provide value to others 🌱
+</h3>
 
-- 🔭 I’m working on my mock scheduling app [PerpMate](https://prepmatee.vercel.app/).
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ankitsingh2105&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh2105" />
+</p>
 
-- 🌱 I’m currently learning **NextJS, NestJS, Prisma**.
-
+- 🔭 I’m working on my mock scheduling app [PerpMate](https://prepmatee.vercel.app/)
+- 🌱 I’m currently learning **NextJS, NestJS, Prisma**
 - 👨‍💻 All of my projects are available at [ankitsinghchauhan.in](https://www.ankitsinghchauhan.in)
-
-- 💬 Ask me about **Docker, AWS, WebSockets, WebRTC, Real-Time Applications, Chrome Extensions**.
-
-- 📫 How to reach me **ankitchauhan21500@gmail.com**.
-
+- 💬 Ask me about **Docker, AWS, WebSockets, WebRTC, Real-Time Applications, Chrome Extensions**
+- 📫 How to reach me **ankitchauhan21500@gmail.com**
 - ⚡ Know about my experiences through my [RESUME](https://drive.google.com/file/d/1b3Ye7wKyBzitNkXqJeMPWeuxmccWaG4q/view)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="https://twitter.com/ankitchauhan215" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitchauhan215" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ankitchauhan21" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitchauhan21" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/19757319/ankit" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19757319/ankit" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/ankitchauhan21" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitchauhan21" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/ankitchauhan215" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/ankitchauhan21" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://stackoverflow.com/users/19757319/ankit" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/ankitchauhan21" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+  </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=aws" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=cpp" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=docker" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=express" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=firebase" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
+</tr>
+
+<tr>
+<td><img src="https://skillicons.dev/icons?i=js" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=postgres" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=react" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=redux" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind" width="48"/></td>
+</tr>
+</table>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh2105&show_icons=true&locale=en&layout=compact" />
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh2105&show_icons=true&locale=en&layout=compact" alt="ankitsingh2105" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2105&" alt="ankitsingh2105" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh2105" />
+</p>
