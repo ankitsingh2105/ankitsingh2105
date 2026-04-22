@@ -10,7 +10,7 @@ I strive to create unique solutions that address real-world challenges and provi
   <img src="https://komarev.com/ghpvc/?username=ankitsingh2105&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh2105" />
 </p>
 
-- 🔭 I’m working on my mock scheduling app [PerpMate](https://prepmatee.vercel.app/)
+- 🔭 Currently I am an Intern at [Digistay](https://digistay.ai/)
 - 🌱 I’m currently learning **NextJS, NestJS, Prisma**
 - 👨‍💻 All of my projects are available at [ankitsinghchauhan.in](https://www.ankitsinghchauhan.in)
 - 💬 Ask me about **Docker, AWS, WebSockets, WebRTC, Real-Time Applications, Chrome Extensions**
